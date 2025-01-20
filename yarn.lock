@@ -463,10 +463,10 @@ abbrev@1:
   resolved "https://registry.npmjs.org/abbrev/-/abbrev-1.1.1.tgz"
   integrity sha512-nne9/IiQ/hzIhY6pdDnbBtz7DjPTKrY00P/zvPSm5pOFkl6xuGrGnXn/VtTNNfNtAfZ9/1RtehkszU9qcTii0Q==
 
-adhan@^4.3.1:
-  version "4.3.2"
-  resolved "https://registry.npmjs.org/adhan/-/adhan-4.3.2.tgz"
-  integrity sha512-bzc3tDG8ZWwSZedRMDrj+dTqwLn7v/tqmsYBz+FYjhiDeYKUtdNdn6mMRDy5bY2prI5r8J7pFjX6lee+kpgURQ==
+adhan@^4.4.3:
+  version "4.4.3"
+  resolved "https://registry.yarnpkg.com/adhan/-/adhan-4.4.3.tgz#a8bccaeadd0669b609657d4069118562dba4763f"
+  integrity sha512-568KkQd8OMLUj7o7+d2FDcm6vZHWQrE7vsm/Evssh8sfUDpPyaboj3PVsScZAr7L7sNRgPrtLMmDZZfM7VeAYw==
 
 agent-base@6, agent-base@^6.0.2:
   version "6.0.2"
